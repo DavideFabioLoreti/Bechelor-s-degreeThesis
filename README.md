@@ -1,15 +1,7 @@
 #  ANALISI DELLA SERIE STORICA PER LA MODELLAZIONE E PREVISIONE DEL PREZZO SPOT DELL’ENERGIA ELETTRICA
 
-## 📊 Analisi delle Serie Storiche con Modelli SARIMA
 
-[![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![Time Series](https://img.shields.io/badge/Time_Series-Analysis-blue?style=for-the-badge)](https://github.com/)
-[![SARIMA](https://img.shields.io/badge/Model-SARIMA-green?style=for-the-badge)](https://github.com/)
-[![Gretl](https://img.shields.io/badge/Gretl-Software-red?style=for-the-badge)](http://gretl.sourceforge.net/)
-
----
-
-## 📖 Descrizione del Progetto
+## 📖 Descrizione del Progetto di Tesi
 
 Questo progetto di tesi analizza e prevede il **Prezzo Unico Nazionale (PUN)** dell'energia elettrica in Italia utilizzando modelli statistici **SARIMA (Seasonal AutoRegressive Integrated Moving Average)**.
 
