@@ -62,10 +62,10 @@ Il contesto è particolarmente rilevante considerando:
 
 ## 🎓 Contesto Accademico
 
-**Università**: Università degli studi di Milano - Bicocca 
-**Corso di Laurea**: Laurea in Scienze Statistiche ed Economiche  
-**Anno Accademico**: 2022/2023 
-**Relatore**: Prof. Andrea Marletta  
+- **Università**: Università degli studi di Milano - Bicocca .
+- **Corso di Laurea**: Laurea in Scienze Statistiche ed Economiche  
+- **Anno Accademico**: 2022/2023 
+- **Relatore**: Prof. Andrea Marletta  
 
 ---
 
@@ -77,10 +77,3 @@ Questo progetto è rilasciato sotto licenza [MIT License](LICENSE).
 ---
 
 
-<div align="center">
-
-**⭐ Se questo progetto ti è stato utile, lascia una stella!**
-
-*Realizzato con ❤️ e ☕ per l'analisi dei dati energetici*
-
-</div>
