@@ -23,11 +23,11 @@ Il contesto è particolarmente rilevante considerando:
 
 ```
 📦 Energy-Price-Forecasting
-├── 📄 tesi.R                          # Script principale di analisi
-├── 📄 funzioni_serie_storiche.R       # Funzioni personalizzate per time series
-├── 📄 tesi.pdf                        # Documento completo della tesi
-├── 📊 data/                           # Dataset PUN
-└── 📋 README.md                       # Questo file
+├── 📄 tesi.R                                     # Script principale di analisi
+├── 📄 funzioni_serie_storiche.R                  # Funzioni personalizzate per time series
+├── 📄 triennale_865309.pdf                       # Documento completo della tesi
+├── 📊 serie depurata dai valaori anomali         # Dataset PUN
+└── 📋 README.md                                  # Questo file
 ```
 
 ---
