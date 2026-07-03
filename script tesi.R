@@ -1,5 +1,5 @@
 library(readxl)
-serie_energia <- read_excel("C:/Users/HP/Desktop/serie energia.xlsx")
+serie_energia <- read_excel(".../serie energia.xlsx")
 View(serie_energia)
 
 
